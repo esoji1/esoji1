@@ -15,4 +15,4 @@
 
 > "Люблю создавать игры, которые цепляют игроков механиками, а не графикой."  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esoji1&show_icons=true&theme=radical)](https://github.com/ВАШНИК)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esoji1&show_icons=true&theme=radical)](https://github.com/esoji1)
