@@ -15,7 +15,7 @@
 - Разработка и оптимизация игровых механик
 
 ## 📫 Контакты:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16" height="16"/> [@igor1Cs](https://t.me/igor1Cs)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="16" height="16"/> [aim.wtf1234@gmail.com](mailto:aim.wtf1234@gmail.com)
+[<img src="https://telegram.org/favicon.ico" width="32" height="32">](https://t.me/igor1Cs) 
+[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="32" height="32">](mailto:aim.wtf1234@gmail.com)
 
 > *"Люблю создавать игры, которые цепляют игроков механиками, а не графикой."*
