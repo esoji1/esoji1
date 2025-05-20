@@ -13,6 +13,4 @@
 - Telegram: [@igor1Cs](https://t.me/igor1Cs)  
 - Почта: aim.wtf1234@gmail.com  
 
-> "Люблю создавать игры, которые цепляют игроков механиками, а не графикой."  
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esoji1&show_icons=true&theme=radical)](https://github.com/esoji1)
+> "Люблю создавать игры, которые цепляют игроков механиками, а не графикой." 
