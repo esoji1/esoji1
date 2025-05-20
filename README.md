@@ -1,16 +1,29 @@
-## Hi there 👋
+# Привет, меня зовут Игорь! 👋
 
-<!--
-**esoji1/esoji1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Unity-разработчик** | 19 лет | 3 года опыта  
 
-Here are some ideas to get you started:
+### 🛠️ Технологии и навыки:
+- **Языки:** C#, Python (базовый уровень)
+- **Игровые движки:** Unity3D, знаком с Unreal Engine (Blueprint)
+- **Графика и анимация:** Shader Graph, VFX, Timeline, Animator
+- **Оптимизация:** Profiler, Addressables, Asset Bundles
+- **Другое:** Git, SOLID, Zenject, DOTween
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Мои проекты:
+1. **[Название игры](https://ссылка)**  
+   - Жанр: Roguelike/Platformer  
+   - Что сделал: Полный цикл разработки от прототипа до релиза  
+   - Технологии: Unity ECS, New Input System  
+
+2. **[Open-Source инструмент](https://ссылка)**  
+   - Редактор уровней для инди-разработчиков  
+   - Возможности: Tilemap-генерация, экспорт в JSON  
+
+### 📫 Как связаться:
+- Telegram: [@никнейм](https://t.me/никнейм)  
+- Почта: example@gmail.com  
+- VK: [Игорь](https://vk.com/...)  
+
+> "Люблю создавать игры, которые цепляют игроков механиками, а не графикой."  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esoji1&show_icons=true&theme=radical)](https://github.com/ВАШНИК)
