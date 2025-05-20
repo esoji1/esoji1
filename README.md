@@ -3,7 +3,7 @@
 **Unity-разработчик** | 19 лет | 3 года опыта  
 
 ## Стэк
-**Unity** | **Git/GitHub** | **Zenject** | **DOTween** | **C#** | **Odin Inspector**
+**Unity** | **Git/GitHub** | **Zenject** | **DOTween** 
 
 ## Скилы:
 ◈ SOLID ◈ ООП ◈ Паттерны ◈ Рефакторинг ◈ Оптимизация ◈ Gameplay Mechanics
