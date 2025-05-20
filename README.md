@@ -1,5 +1,4 @@
-
-![WakaTime](https://wakatime.com/badge/user/dbdc2af0-5cf9-47f1-94b9-cdbfc31a36ed)
+[![wakatime](https://wakatime.com/badge/user/dbdc2af0-5cf9-47f1-94b9-cdbfc31a36ed.svg)](https://wakatime.com/@dbdc2af0-5cf9-47f1-94b9-cdbfc31a36ed)
 
 # Привет, меня зовут Игорь! 👋
 
