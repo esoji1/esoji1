@@ -3,10 +3,13 @@
 Мне 19 лет.  
 Я Unity-разработчик.  
 
-### Стэк: Unity, Git/GitHub, Zenject, DOTween, Яндекс SDK  
-### Скилы: SOLID, ООП, Паттерны, Рефакторинг, Оптимизация
+## Стэк: 
+Unity, Git/GitHub, Zenject, DOTween, Яндекс SDK  
+## Скилы: 
+SOLID, ООП, Паттерны, Рефакторинг, Оптимизация
 
-[<img src="https://telegram.org/favicon.ico" width="32" height="32">](https://t.me/igor1Cs) 
-[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="32" height="32">](mailto:aim.wtf1234@gmail.com)
-
+## Контакты
+**Телефон:** [+7 (937) 516-27-92](tel:+79375162792)  
+**Telegram:** [@igor1Cs](https://t.me/igor1Cs)  
+**Email:** [aim.wtf1234@gmail.com](mailto:aim.wtf1234@gmail.com)
 > *"Люблю создавать игры, которые цепляют игроков механиками, а не графикой."*
