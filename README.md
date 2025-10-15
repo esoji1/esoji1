@@ -1,5 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/dbdc2af0-5cf9-47f1-94b9-cdbfc31a36ed.svg)](https://wakatime.com/@dbdc2af0-5cf9-47f1-94b9-cdbfc31a36ed)  
-Привет, меня зовут Игорь. Я Unity-разработчик.  
+Привет, меня зовут Игорь. 
+Я крутой Unity-разработчик с 2 годами опыта😁.  
 
 ## Скилы: 
 UI, Physics, Animations, C#, Vector Math, ООП, MVx, GoF паттерны, SOLID, GRASP, TDD, DDD, Clean Architecture, CPU, GPU, RAM, build size, work time, workflow, Coroutines, Tasks, UniTask, Yandex Games, AdMob, Appodeal, Applovin, UnityAds, YandexAds, NUnit, Nsubstitute, FluentAssertions, GitLab, DoTwean, TmPro, Odin Inspector, UniRx, Zenject, Figma, Photoshop, Esoteric Software, Spine Editor, State Machine, ML, Utility AI, Behavior Tree, GOAP
