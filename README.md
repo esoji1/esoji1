@@ -3,7 +3,9 @@
 Я крутой Unity-разработчик с 2 годами опыта😁.  
 
 ## Скилы: 
-UI, Physics, Animations, C#, Vector Math, ООП, MVx, GoF паттерны, SOLID, GRASP, TDD, DDD, Clean Architecture, CPU, GPU, RAM, build size, work time, workflow, Coroutines, Tasks, UniTask, Yandex Games, AdMob, Appodeal, Applovin, UnityAds, YandexAds, NUnit, Nsubstitute, FluentAssertions, GitLab, DoTwean, TmPro, Odin Inspector, UniRx, Zenject, Figma, Photoshop, Esoteric Software, Spine Editor, State Machine, ML, Utility AI, Behavior Tree, GOAP
+UI, Physics, Animations, C#, Vector Math, ООП, MVx, GoF паттерны, SOLID, GRASP, TDD, DDD, Clean Architecture, CPU, GPU, RAM, build size, work time, workflow, Coroutines, Tasks, UniTask, Yandex Games, AdMob, Appodeal, Applovin, UnityAds, YandexAds, NUnit, Nsubstitute, FluentAssertions, GitLab, DoTwean, TmPro, Odin Inspector, UniRx, Zenject, Figma, Photoshop, Esoteric Software, Spine Editor, State Machine, ML, Utility AI, Behavior Tree, GOAP.
+
+Портфолио [некоммерческих проектов.](https://github.com/esoji1/Portfolio-of-non-profit-projects/tree/master)
 
 ## Контакты
 **Телефон:** [+7 (937) 516-27-92](tel:+79375162792)  
