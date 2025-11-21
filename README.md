@@ -2,8 +2,10 @@
 Привет, меня зовут Игорь.  
 Опытный Unity разработчик с 3-годами опыта тажем создания мобильных и веб‑игр. Специализируюсь на разработке инди-проектов, игр уровня AA и создании быстрых прототипов.
 
-## Скилы: 
-UI, Physics, Animations, C#, Vector Math, ООП, MVx, GoF паттерны, SOLID, GRASP, TDD, DDD, Clean Architecture, CPU, GPU, RAM, build size, work time, workflow, Coroutines, Tasks, UniTask, Yandex Games, AdMob, Appodeal, Applovin, UnityAds, YandexAds, NUnit, Nsubstitute, FluentAssertions, GitLab, DoTwean, TmPro, Odin Inspector, UniRx, Zenject, Figma, Photoshop, Esoteric Software, Spine Editor, State Machine, ML, Utility AI, Behavior Tree, GOAP.
+## Скилы:
+Unity engine: UI, Physics, Animations, Coroutines  
+Plugins: Zenject, DoTween, UniTask, Odin Inspector, UniRx, PluginYG2  
+Clean Architecture: SOLID, ООП, GRASP, DRY, KISS, YAGNI, Design Patterns(Singleton, Factory Method, Decorator, Strategy, Observer, Command)  
 
 Портфолио [некоммерческих проектов.](https://github.com/esoji1/Portfolio-of-non-profit-projects/tree/master)
 
