@@ -6,6 +6,7 @@
 Unity engine: UI, Physics, Animations, Coroutines  
 Plugins: Zenject, DoTween, UniTask, Odin Inspector, UniRx, PluginYG2  
 Clean Architecture: SOLID, ООП, GRASP, DRY, KISS, YAGNI, Design Patterns(Singleton, Factory Method, Decorator, Strategy, Observer, Command)  
+SDK: Яндекс SDK
 
 Портфолио [проектов](https://github.com/esoji1/Portfolio-of-non-profit-projects/tree/master)
 
