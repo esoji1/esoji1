@@ -12,7 +12,6 @@ SDK: Яндекс SDK
 Портфолио [проектов](https://github.com/esoji1/Portfolio-of-non-profit-projects/tree/master)
 
 ## Контакты
-**Телефон:** [+7 (937) 516-27-92](tel:+79375162792)  
 **Telegram:** [@igor1Cs](https://t.me/igor1Cs)  
 **Email:** [igorgushchin10@gmail.com](mailto:igorgushchin10@gmail.com)
 > *"Люблю создавать игры, которые цепляют игроков механиками, а не графикой."*
