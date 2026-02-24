@@ -6,7 +6,7 @@ I specialize in developing indie projects, AA-level games, and building fast pro
 ## Skills:
 Unity engine: UI, Physics, Animations, Coroutines, Profiler/Memory Profiler, Unity API, Addressables  
 Plugins: Zenject, DoTween, UniTask, Odin Inspector, UniRx, PluginYG2  
-Clean Architecture: SOLID, ООП, GRASP, DRY, KISS, YAGNI, Design Patterns(Singleton, Factory Method, Decorator, Strategy, Observer, Command), MVC, MVP  
+Clean Architecture: SOLID, ООП, GRASP, DRY, KISS, YAGNI, Design Patterns(Singleton, Factory Method, Decorator, Strategy, Observer, Command, Entry Point), MVC, MVP  
 Tools: Git (fork), Redmine  
 SDK: Яндекс SDK
 
